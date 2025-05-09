@@ -1,0 +1,4 @@
+C0001	Vikram	U0002	
+C0002	suriya	U0003	
+C0003	vijay	U0004	
+C0004	ajith	U0005	
